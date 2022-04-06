@@ -1,6 +1,9 @@
 {
   "entryPoints": [
-    "./src/basicFunctions.ts"
+    "./src/basicFunctions.ts",
+    "./src/observable.ts",
+    "./src/revista.ts",
+    "./src/subscriptor.ts"
   ],
   "out": "./docs"
 }
